@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "siteName": "iDigital",
+    "titleSuffix": "iDigital | Digital Marketing Agency",
+    "defaultDescription": "iDigital is a digital marketing and web development agency based in Qena, Egypt — building digital identities and ad campaigns that deliver real results for clients in Egypt, Saudi Arabia, and the Gulf."
+  },
+  "nav": {
+    "services": "Services",
+    "work": "Work",
+    "studio": "Studio",
+    "builder": "Build your bundle",
+    "journal": "Journal",
+    "careers": "Careers",
+    "contact": "Start a project",
+    "audit": "Site check-up"
+  },
+  "hero": {
+    "eyebrow": "Digital marketing & web agency",
+    "headline": "We turn your digital presence into a brand people remember",
+    "sub": "From Qena, we build websites, ad campaigns, and visual identities for clients across Egypt, Saudi Arabia, and the Gulf — designed with taste, measured in numbers.",
+    "ctaPrimary": "Start your project",
+    "ctaSecondary": "See our work",
+    "scroll": "Scroll"
+  },
+  "stats": {
+    "clients": {
+      "value": "80+",
+      "label": "Clients who trusted us"
+    },
+    "projects": {
+      "value": "150+",
+      "label": "Projects delivered"
+    },
+    "countries": {
+      "value": "3",
+      "label": "Countries we serve"
+    },
+    "years": {
+      "value": "5+",
+      "label": "Years in the market"
+    }
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Everything your brand needs, under one roof",
+    "sub": "From the first idea to a performance report you can read",
+    "items": {
+      "web": {
+        "title": "Web design & development",
+        "desc": "Fast, SEO-ready Next.js websites built to turn visitors into customers.",
+        "cta": "Build your store with us"
+      },
+      "social": {
+        "title": "Social media management",
+        "desc": "Content, design, and a posting strategy that builds a real community, not just likes.",
+        "cta": "Make your audience follow you, not just see you"
+      },
+      "ads": {
+        "title": "Google & Meta ads management",
+        "desc": "Data-driven campaigns targeting the Saudi and Gulf market at the lowest acquisition cost.",
+        "cta": "Double your customers without doubling your budget"
+      },
+      "branding": {
+        "title": "Branding & visual identity",
+        "desc": "A logo and identity system that tells your brand's story at first glance.",
+        "cta": "Make the first impression stick"
+      },
+      "seo": {
+        "title": "Search engine optimization",
+        "desc": "We rank your site on page one with content and technical structure built to last.",
+        "cta": "Rank on Google before your competitors do"
+      },
+      "content": {
+        "title": "Visual content production",
+        "desc": "Photography, motion graphics, and short-form video that stop the scroll.",
+        "cta": "Make your content stop the scroll"
+      }
+    }
+  },
+  "portfolio": {
+    "eyebrow": "Our work",
+    "title": "Real work, for real clients",
+    "sub": "A sample of the digital identities we built from scratch",
+    "viewAll": "See all work",
+    "viewProject": "View project",
+    "empty": "Our work will be added here soon"
+  },
+  "about": {
+    "eyebrow": "Studio",
+    "title": "An Egyptian digital agency, built to compete globally",
+    "body": "iDigital is a fully integrated digital marketing agency based in Qena, Egypt. We started as a small team passionate about marketing and design, and now we build digital presence for clients across Egypt, Saudi Arabia, and the Gulf — from clinics and restaurants to recruitment companies.",
+    "teamEyebrow": "Team",
+    "teamTitle": "The people behind your project",
+    "valuesTitle": "We believe that",
+    "values": {
+      "v1": "Design without measurable results is just decoration",
+      "v2": "Every client has a different market — one strategy never fits all",
+      "v3": "Speed and taste aren't opposites, you can have both"
+    }
+  },
+  "blog": {
+    "eyebrow": "Journal",
+    "title": "Ideas and notes on digital marketing",
+    "sub": "Articles we write from our day-to-day work with clients",
+    "readMore": "Read article",
+    "by": "By",
+    "empty": "Our first article is coming soon"
+  },
+  "careers": {
+    "eyebrow": "Careers",
+    "title": "Want to work with us?",
+    "sub": "We're always looking for talent passionate about marketing, design, and code",
+    "apply": "Apply now",
+    "empty": "No open roles right now — follow us to know when we do",
+    "location": "Location",
+    "type": "Employment type"
+  },
+  "contact": {
+    "eyebrow": "Start a project",
+    "title": "Let's hear your idea",
+    "sub": "Fill in the form or message us on WhatsApp directly, we reply within working hours",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone number",
+      "message": "Tell us about your project",
+      "submit": "Send request"
+    },
+    "whatsapp": "Chat on WhatsApp",
+    "address": "Family Mall, Qena, Egypt"
+  },
+  "footer": {
+    "tagline": "A digital marketing agency from Qena, for the Arab world",
+    "servicesTitle": "Services",
+    "companyTitle": "Company",
+    "contactTitle": "Contact",
+    "rights": "All rights reserved"
+  },
+  "common": {
+    "readMore": "Read more",
+    "backHome": "Back home"
+  },
+  "builder": {
+    "eyebrow": "Build your bundle",
+    "title": "Your package, your rules",
+    "sub": "Tap any service you need to add it to the board, then pick exactly what's in it — we're as flexible as your project needs",
+    "boardTitle": "Your project board",
+    "boardEmpty": "Nothing selected yet — tap a service below to add it here",
+    "paletteTitle": "Choose your services",
+    "addonsHint": "Pick exactly what you need:",
+    "remove": "Remove",
+    "tier": {
+      "label": "Your project scope",
+      "starter": "Strong start",
+      "growth": "Integrated growth",
+      "fullscale": "Full presence"
+    },
+    "summaryTitle": "Your bundle summary",
+    "summaryEmpty": "Your summary will appear here once you start selecting",
+    "ctaWhatsapp": "Get a quote for your bundle",
+    "ctaReset": "Start over",
+    "items": {
+      "web": {
+        "addons": {
+          "multipage": "Multi-page website",
+          "ecommerce": "eCommerce store",
+          "app": "Companion mobile app"
+        }
+      },
+      "social": {
+        "addons": {
+          "coremeta": "Facebook & Instagram",
+          "tiktok": "TikTok",
+          "weeklyVideo": "Weekly video content"
+        }
+      },
+      "ads": {
+        "addons": {
+          "google": "Google Ads campaigns",
+          "meta": "Meta Ads campaigns",
+          "snapchat": "Snapchat campaigns"
+        }
+      },
+      "branding": {
+        "addons": {
+          "identity": "Logo & full visual identity",
+          "profile": "Company profile",
+          "print": "Print & packaging design"
+        }
+      },
+      "seo": {
+        "addons": {
+          "local": "Local SEO (Google Maps)",
+          "technical": "Technical site SEO",
+          "content": "SEO content writing"
+        }
+      },
+      "content": {
+        "addons": {
+          "photo": "Photography",
+          "motion": "Motion graphics",
+          "reels": "Short-form reels"
+        }
+      }
+    }
+  },
+  "audit": {
+    "eyebrow": "Digital audit",
+    "title": "Know where you stand in 60 seconds",
+    "sub": "Drop your website or Instagram link and watch iDigital's tech scan your digital presence live — a free instant report, no strings attached",
+    "form": {
+      "name": "Your name",
+      "industry": "Your industry",
+      "link": "yourwebsite.com or Instagram link",
+      "linkHint": "We accept websites and Instagram links (@username works too)",
+      "submit": "Start live scan"
+    },
+    "industries": {
+      "clinic": "Clinic / Medical center",
+      "restaurant": "Restaurant / Café",
+      "ecommerce": "eCommerce store",
+      "realestate": "Real estate",
+      "recruitment": "Recruitment",
+      "education": "Education / Courses",
+      "services": "Services company",
+      "other": "Other"
+    },
+    "scan": {
+      "connecting": "Connecting to target...",
+      "reading": "Reading page source code...",
+      "meta": "Extracting title, description & share data...",
+      "structure": "Analyzing page structure & headings...",
+      "signals": "Detecting tracking tools & contact points...",
+      "scoring": "Computing scores & writing your report..."
+    },
+    "scores": {
+      "seo": "SEO readiness",
+      "tech": "Technical health",
+      "brand": "Digital identity",
+      "conversion": "Conversion power"
+    },
+    "estimated": "Estimated — Instagram blocks direct scanning",
+    "strengths": "Strengths",
+    "issues": "Needs work",
+    "ideas": "Ideas from our team",
+    "expertTitle": "This report is just step one",
+    "expertSub": "An iDigital expert can walk through these results with you and turn them into a real execution plan with numbers and timelines",
+    "expertCta": "Review results with an expert",
+    "again": "Scan another link",
+    "error": "We couldn't reach that link — make sure it's correct and live, then try again"
+  },
+  "bot": {
+    "name": "Helal",
+    "tagline": "iDigital's smart assistant",
+    "greeting": "Hey! I'm Helal 🌙 Ask me about our services, or let me build you a bundle that fits your project",
+    "placeholder": "Type your message...",
+    "quick": {
+      "services": "What are your services?",
+      "bundle": "Build me a bundle",
+      "audit": "I want to scan my site"
+    },
+    "bundleCard": "Suggested bundle for you",
+    "openBuilder": "Open in bundle builder",
+    "offline": "Sorry, a temporary connection issue 🌙 try again shortly or reach us on WhatsApp",
+    "open": "Open assistant",
+    "close": "Close"
+  },
+  "ctas": {
+    "home": {
+      "eyebrow": "Start a project",
+      "title": "Let's hear your idea",
+      "sub": "Fill in the form or message us on WhatsApp directly, we reply within working hours"
+    },
+    "services": {
+      "eyebrow": "Not sure what you need?",
+      "title": "We'll help you figure out exactly what your project needs",
+      "sub": "Message us now, or try the bundle builder and see our live suggestions"
+    },
+    "portfolio": {
+      "eyebrow": "See yourself here?",
+      "title": "Let's start your next success story",
+      "sub": "Every project above started with a call like the one you could make now"
+    },
+    "project": {
+      "eyebrow": "Like what you see?",
+      "title": "We could build something like this for your brand",
+      "sub": "Tell us about your project and we'll show you the closest thing we've built"
+    },
+    "about": {
+      "eyebrow": "Want a team like this on your brand?",
+      "title": "Let's get to work together",
+      "sub": "Our team is ready to take your idea and turn it into a real digital presence"
+    },
+    "blog": {
+      "eyebrow": "Liked the ideas?",
+      "title": "Let's actually build them together",
+      "sub": "Articles are nice, but execution is what makes the difference"
+    },
+    "careers": {
+      "eyebrow": "See yourself in this story?",
+      "title": "Come work with us",
+      "sub": "We're looking for talent who want to build something real, not just clock in"
+    }
+  }
+}
