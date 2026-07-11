@@ -1,0 +1,62 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+:root {
+  --color-ink: #1a0e1a;
+  --color-aubergine: #330f28;
+  --color-aubergine-deep: #220a1a;
+  --color-magenta: #b0186b;
+  --color-magenta-2: #7a1256;
+  --color-magenta-light: #e2569c;
+  --color-blush: #f6e9ef;
+  --color-cream: #fdf9fb;
+  --color-line: #ecdce6;
+  --color-gold: #e7b65c;
+}
+
+@theme inline {
+  --color-ink: var(--color-ink);
+  --color-aubergine: var(--color-aubergine);
+  --color-aubergine-deep: var(--color-aubergine-deep);
+  --color-magenta: var(--color-magenta);
+  --color-magenta-2: var(--color-magenta-2);
+  --color-magenta-light: var(--color-magenta-light);
+  --color-blush: var(--color-blush);
+  --color-cream: var(--color-cream);
+  --color-line: var(--color-line);
+  --color-gold: var(--color-gold);
+  --font-display: var(--font-space-grotesk);
+  --font-body: var(--font-plex-arabic);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-cream);
+  color: var(--color-ink);
+  font-family: var(--font-body), ui-sans-serif, system-ui, sans-serif;
+}
+
+[dir="rtl"] .ltr-flip {
+  transform: scaleX(-1);
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+::selection {
+  background: var(--color-magenta);
+  color: white;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
